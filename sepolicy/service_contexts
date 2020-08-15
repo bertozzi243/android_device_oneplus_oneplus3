@@ -1,1 +1,2 @@
 android.samsung.IRemosaicDaemon      u:object_r:remosaic_service:s0
+pocket                               u:object_r:pocket_service:s0
