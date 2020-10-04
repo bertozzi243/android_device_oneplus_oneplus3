@@ -429,5 +429,8 @@
 
     <!-- Button brightness -->
     <bool name="config_button_brightness_support">true</bool>
+    
+    <!-- Defines custom Vendor sensor for pocket detection. -->
+    <string name="config_pocketJudgeVendorSensorName">oneplus.sensor.pocket</string>    
 
 </resources>
